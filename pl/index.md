@@ -1,3 +1,3 @@
 Test
 
-![Phone](../_images/phone.png "Phone")
+![Phone](/_images/phone.png "Phone")
